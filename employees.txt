@@ -1,0 +1,7 @@
+ID,Name,Department,Salary
+101,John Doe,HR,50000
+102,Jane Smith,IT,75000
+103,David Johnson,Finance,62000
+104,Emily Davis,IT,68000
+105,Michael Brown,HR,55000
+106,Sarah Wilson,Finance,71000
